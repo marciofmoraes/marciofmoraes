@@ -16,9 +16,8 @@
 
   
 <div>
-![Snake animation](https://github.com/marciofmoraes/marciofmoraes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation] (https://github.com/marciofmoraes/marciofmoraes/blob/output/github-contribution-grid-snake.svg)
 </div>
-
   
   
   <!--
