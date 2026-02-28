@@ -1,3 +1,5 @@
+
+
 ### Olá! Eu sou **Márcio Moraes** 👋
 
 <div align="center">
@@ -41,4 +43,10 @@
   <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-007ACC?style=for-the-badge&logo=gitbook"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/DIO-Trilha%20Python-blue?style=for-the-badge&logo=data:image/svg+xml;base64,..."/>
+  
+  
+  
+  
 </div>
+
+
